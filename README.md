@@ -1,5 +1,5 @@
-Price Holder
-============
+Price Ticket Holder
+===================
 
 Description
 -----------
